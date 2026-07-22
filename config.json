@@ -1,0 +1,18 @@
+{
+  "id": "densenet121_chest_xray",
+  "display_name_ar": "تصنيف أشعة الصدر (DenseNet121)",
+  "display_name_en": "Chest X-ray Classifier (DenseNet121)",
+  "modality": "xray",
+  "task": "classification",
+  "description_ar": "نموذج مبني على DenseNet121 لتصنيف أشعة الصدر السينية وكشف علامات شائعة مثل الالتهاب الرئوي. هذا النموذج أداة مساعدة فقط ولا يغني عن تقييم الطبيب المختص.",
+  "input_width": 224,
+  "input_height": 224,
+  "file_size_mb": 28,
+  "model_file_name": "model.onnx",
+  "labels": [
+    "طبيعي (Normal)",
+    "التهاب رئوي (Pneumonia)",
+    "كوفيد-19 (COVID-19)",
+    "أخرى / غير محدد (Other)"
+  ]
+}

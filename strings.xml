@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مساعد التشخيص الطبي</string>
+    <string name="app_tagline">تحليل الصور الطبية بالذكاء الاصطناعي — يعمل بالكامل دون اتصال بالإنترنت</string>
+    <string name="browse_models">تصفح النماذج المتاحة</string>
+    <string name="select_model">اختر نموذج</string>
+    <string name="no_models_available">لا توجد نماذج مضافة بعد</string>
+    <string name="analyze_image">تحليل الصورة</string>
+    <string name="select_image">اختيار صورة</string>
+    <string name="analyze">تحليل</string>
+    <string name="selected_image">الصورة المختارة</string>
+    <string name="medical_disclaimer">⚠️ هذه الأداة للمساعدة فقط ولا تغني عن تقييم الطبيب المختص</string>
+</resources>
